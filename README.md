@@ -5,7 +5,12 @@ Internally it uses a PostgreSQL database to store the data.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Frailwayapp-starters%2Fn8n&plugins=postgresql&envs=USERNAME%2CPASSWORD%2CPORT&PORTDesc=The+port+to+listen+on.+%28You+don%27t+need+to+change%29&PORTDefault=5678)
 
-You should set the variables to correct deploy.
+You should set the variables on Railway Deploy Dashboard.
+
+Variables:  USERNAME, PASSWORD, PORT, WEBHOOK_URL
+
+Configure a CNAME from you DNS Managment to make Webhooks works correctly, example:  n8n.yourdomain.com.br
+
 
 ## ✨ Features
 
