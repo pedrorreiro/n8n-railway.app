@@ -1,4 +1,4 @@
-# n8n serverless on Railway.App platform
+# Instantly n8n serverless on Railway.App platform
 
 This example deploys a self-hosted version of [n8n](https://n8n.io/) on http://railway.app platform.
 Internally it uses a PostgreSQL database to store the data.
