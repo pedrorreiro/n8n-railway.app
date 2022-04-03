@@ -14,7 +14,7 @@ Variables:
 - PORT
 - WEBHOOK_URL
 
-Configure a CNAME from your DNS Managment to make Webhooks works correctly, example:  n8n.yourdomain.com.br
+Configure a CNAME from your DNS Managment to make Webhooks works correctly, example:  n8n.yourdomain.com
 
 example:
 
