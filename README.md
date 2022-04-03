@@ -18,7 +18,8 @@ Configure a CNAME from you DNS Managment to make Webhooks works correctly, examp
 
 example:
 
-[img]https://github.com/magadan/n8n-railway.app/blob/main/example.jpg[/img]
+![railway.app variables example](https://github.com/magadan/n8n-railway.app/blob/main/example.jpg)
+
 
 ## ✨ Features
 
