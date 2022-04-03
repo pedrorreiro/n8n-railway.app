@@ -7,9 +7,17 @@ Internally it uses a PostgreSQL database to store the data.
 
 You should set the variables on Railway Deploy Dashboard.
 
-Variables:  USERNAME, PASSWORD, PORT, WEBHOOK_URL
+Variables:  
+
+- USERNAME
+- PASSWORD
+- PORT
+- WEBHOOK_URL
 
 Configure a CNAME from you DNS Managment to make Webhooks works correctly, example:  n8n.yourdomain.com.br
+
+example:
+
 
 
 ## ✨ Features
